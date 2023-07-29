@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>417724535115-89inb55i5bkhmp6o7kl27va1uo1161c0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.417724535115-89inb55i5bkhmp6o7kl27va1uo1161c0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEFR8ZPlp8x8NpGi8mja6QYLnjlTouiHc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>417724535115</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mealMonkey</string>
+	<key>PROJECT_ID</key>
+	<string>foodordering-e0438</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodordering-e0438.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:417724535115:ios:cfee013080fad6101498ce</string>
+</dict>
+</plist>

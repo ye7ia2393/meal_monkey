@@ -1,0 +1,73 @@
+class ARLanguage {
+  static Map<String, String> get map => {
+        "key_intro_title_01": "ابحث عن الطعام الذي تحبه",
+        "key_intro_title_02": "توصيل سريع",
+        "key_intro_title_03": "تتبع مباشر",
+        "key_intro_description_01":
+            "اكتشف أفضل الأطعمة من أكثر من 1،000 \n مطعم مع توصيل سريع إلى عتبة داركم",
+        "key_intro_description_02":
+            "توصيل وجبات سريعة إلى منزلك أو مكتبك \n أينما كنت",
+        "key_intro_description_03":
+            "تتبع طعامك في الوقت الفعلي على التطبيق \n بمجرد تقديم الطلب",
+        "key_landing_view_description":
+            "اكتشف أفضل الأطعمة من أكثر من 1،000 \n مطعم مع توصيل سريع إلى عتبة داركم",
+        "key_landing_view_create_account": "إنشاء حساب",
+        "key_email": "بريد إلكتروني",
+        "key_email_validation": "يرجى إدخال البريد الإلكتروني الصحيح",
+        "key_password": "كلمة المرور",
+        "key_password_validation": "الرجاء إدخال كلمة المرور الصحيحة",
+        "key_confirm_password": "تأكيد كلمة المرور",
+        "key_confirm_password_validation":
+            "تأكد من تطابق كلمة المرور الخاصة بك",
+        "key_forgot_password": "نسيت كلمة المرور؟",
+        "key_reset_password": "إعادة تعيين كلمة المرور",
+        "key_reset_password_view_description":
+            "الرجاء إدخال بريدك الإلكتروني لتلقي \n رابط لإنشاء كلمة مرور جديدة عبر البريد الإلكتروني",
+        "key_new_password": "New Password",
+        "key_new_password_view_description":
+            "الرجاء إدخال كلمة المرور الجديدة الخاصة بك",
+        "key_login": "تسجيل الدخول",
+        "key_login_view_options": "أو تسجيل الدخول باستخدام",
+        "key_login_with_facebook": "تسجيل الدخول عبر فيسبوك",
+        "key_login_with_google": "تسجيل الدخول عبر جوجل",
+        "key_login_view_details": "أضف التفاصيل الخاصة بك لتسجيل الدخول",
+        "key_login_view_no_account": "ليس لديك حساب؟",
+        "key_signup": "تسجيل الحساب",
+        "key_signup_view_description": "أضف التفاصيل الخاصة بك للتسجيل",
+        "key_signup_view_have_account": "هل تملك حساب؟",
+        "key_verification_code_view_title":
+            "لقد أرسلنا رمز التحقق إلى \ n هاتفك المحمول",
+        "key_verification_code_view_description":
+            "الرجاء التحقق من رقم هاتفك المحمول \n تابع إعادة تعيين كلمة المرور الخاصة بك",
+        "key_verification_code_view_your_code_is": "رمزك هو",
+        "key_verification_code_view_no_code": "لم تستلم؟",
+        "key_main_view_bottom_navigation_bar_item_menu": "القائمة",
+        "key_main_view_bottom_navigation_bar_item_offers": "عروض",
+        "key_main_view_bottom_navigation_bar_item_profile": "الحساب الشخصي",
+        "key_main_view_bottom_navigation_bar_item_more": "المزيد",
+        "key_home_view_greeting": "صباح الخير",
+        "key_home_view_delivering_to": "توصيل الى",
+        "key_home_view_current_location": "الموقع الحالي",
+        "key_home_view_search": "البحث",
+        "key_home_view_view_all": "اظهر الكل",
+        "key_home_view_popular_restaurents": "المطاعم المشهورة",
+        "key_home_view_most_popular": "الاكثر طلبا",
+        "key_home_view_recent_items": "العناصر الاخيرة",
+        "key_first_name": "الاسم الاول",
+        "key_last_name": "الاسم الاخير",
+        "key_name_validation": "أدخل اسماً صالحًا",
+        "key_age": "العمر",
+        "key_age_validation": "أدخل عمرًا صالحًا",
+        "key_next": "التالي",
+        "key_click_here": "اضغط هنا",
+        "key_finish": "تم",
+        "key_save": "حفظ",
+        "key_send": "ارسال",
+        "key_camera": "كاميرا",
+        "key_gallery": "الاستوديو",
+        "key_file": "ملف",
+        "key_dialog_choose_language_title": "اختر لغة التطبيق",
+        "key_bot_toast_general_success": "كلو تمام معلم",
+        "key_bot_toast_general_rejected": "فرش السيرفر",
+      };
+}

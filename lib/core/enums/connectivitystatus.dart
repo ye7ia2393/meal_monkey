@@ -1,0 +1,4 @@
+enum ConnectivityStatus {
+  OFFLINE,
+  ONLINE,
+}
